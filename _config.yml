@@ -7,13 +7,13 @@ title: Hutk Blog
 subtitle: ''
 description: ''
 keywords:
-author: Hutk Huang
+author: Stark Huang
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://huangyan8977.github.io
+url: https://starkhy.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,5 +103,5 @@ theme: Acrylic
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:huangyan8977/hutk.git
+  repo: git@github.com:StarkHy/StarkHy.github.io.git
   branch: master
